@@ -1,0 +1,6 @@
+gradio
+torch
+timm
+sentencepiece
+transformers
+httpx==0.24.1
