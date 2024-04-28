@@ -1,17 +1,17 @@
-title: EA
+Title: Emotional Analysis
 
-emoji: 🐨
+Emoji: 🐨
 
-colorFrom: pink
+ColorFrom: pink
 
-colorTo: pink
+ColorTo: pink
 
-sdk: gradio
+Sdk: gradio
 
-sdk_version: 4.27.0
+Sdk_version: 4.27.0
 
-app_file: app.py
+App_file: app.py
 
-pinned: false
+Pinned: false
 
-license: apache-2.0
+License: apache-2.0
